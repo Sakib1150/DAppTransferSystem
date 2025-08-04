@@ -1,12 +1,10 @@
-// src/App.js
-
 import React from "react";
 
 function App() {
   return (
-    <div style={{ textAlign: "center", padding: "50px" }}>
-      <h1>DApp Transfer System</h1>
-      <p>This is your deployed React DApp interface.</p>
+    <div style={{ padding: "2rem", textAlign: "center" }}>
+      <h1>🚀 Welcome to DAppTransferSystem</h1>
+      <p>Connect your wallet and transfer tokens securely.</p>
     </div>
   );
 }
