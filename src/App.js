@@ -3,7 +3,7 @@ import React from 'react';
 function App() {
   return (
     <div>
-      <h1>Hello, DApp Transfer System is Live!</h1>
+      <h1>Hello DApp Transfer System!</h1>
     </div>
   );
 }
